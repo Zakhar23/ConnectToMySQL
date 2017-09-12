@@ -1,0 +1,1 @@
+INSERT INTO tothewin.people VALUES (1, "zakhar","380935045855","kyrychenko.zakhar@gmail.com");
